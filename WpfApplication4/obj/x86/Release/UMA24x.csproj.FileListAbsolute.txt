@@ -1,0 +1,626 @@
+C:\Users\Nazario\Documents\Visual Studio 2010\Projects\Uma24x\WpfApplication4\bin\Release\UMA24PR.exe.config
+C:\Users\Nazario\Documents\Visual Studio 2010\Projects\Uma24x\WpfApplication4\bin\Release\UMA24PR.exe
+C:\Users\Nazario\Documents\Visual Studio 2010\Projects\Uma24x\WpfApplication4\bin\Release\UMA24PR.pdb
+C:\Users\Nazario\Documents\Visual Studio 2010\Projects\Uma24x\WpfApplication4\bin\Release\Microsoft.Expression.Drawing.dll
+C:\Users\Nazario\Documents\Visual Studio 2010\Projects\Uma24x\WpfApplication4\bin\Release\Stars.dll
+C:\Users\Nazario\Documents\Visual Studio 2010\Projects\Uma24x\WpfApplication4\bin\Release\Microsoft.Expression.Drawing.xml
+C:\Users\Nazario\Documents\Visual Studio 2010\Projects\Uma24x\WpfApplication4\bin\Release\Stars.pdb
+C:\Users\Nazario\Documents\Visual Studio 2010\Projects\Uma24x\WpfApplication4\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Nazario\Documents\Visual Studio 2010\Projects\Uma24x\WpfApplication4\obj\x86\Release\Interop.iCaller.dll
+C:\Users\Nazario\Documents\Visual Studio 2010\Projects\Uma24x\WpfApplication4\obj\x86\Release\UMA24x.csproj.ResolveComReference.cache
+C:\Users\Nazario\Documents\Visual Studio 2010\Projects\Uma24x\WpfApplication4\obj\x86\Release\Screen\MainWindow.baml
+C:\Users\Nazario\Documents\Visual Studio 2010\Projects\Uma24x\WpfApplication4\obj\x86\Release\Screen\ButtonSelectScreen.baml
+C:\Users\Nazario\Documents\Visual Studio 2010\Projects\Uma24x\WpfApplication4\obj\x86\Release\Screen\ProductScreen.baml
+C:\Users\Nazario\Documents\Visual Studio 2010\Projects\Uma24x\WpfApplication4\obj\x86\Release\Screen\AttactStcokwithProduct.g.cs
+C:\Users\Nazario\Documents\Visual Studio 2010\Projects\Uma24x\WpfApplication4\obj\x86\Release\Screen\CalculateScreen.g.cs
+C:\Users\Nazario\Documents\Visual Studio 2010\Projects\Uma24x\WpfApplication4\obj\x86\Release\Screen\MainWindow.g.cs
+C:\Users\Nazario\Documents\Visual Studio 2010\Projects\Uma24x\WpfApplication4\obj\x86\Release\Screen\ButtonSelectScreen.g.cs
+C:\Users\Nazario\Documents\Visual Studio 2010\Projects\Uma24x\WpfApplication4\obj\x86\Release\Screen\OrderDetailScreen.g.cs
+C:\Users\Nazario\Documents\Visual Studio 2010\Projects\Uma24x\WpfApplication4\obj\x86\Release\Screen\OrderScreen.g.cs
+C:\Users\Nazario\Documents\Visual Studio 2010\Projects\Uma24x\WpfApplication4\obj\x86\Release\Screen\ProductScreen.g.cs
+C:\Users\Nazario\Documents\Visual Studio 2010\Projects\Uma24x\WpfApplication4\obj\x86\Release\Screen\StockScreen.g.cs
+C:\Users\Nazario\Documents\Visual Studio 2010\Projects\Uma24x\WpfApplication4\obj\x86\Release\App.g.cs
+C:\Users\Nazario\Documents\Visual Studio 2010\Projects\Uma24x\WpfApplication4\obj\x86\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\Nazario\Documents\Visual Studio 2010\Projects\Uma24x\WpfApplication4\obj\x86\Release\UMA24PR_MarkupCompile.cache
+C:\Users\Nazario\Documents\Visual Studio 2010\Projects\Uma24x\WpfApplication4\obj\x86\Release\UMA24PR_MarkupCompile.lref
+C:\Users\Nazario\Documents\Visual Studio 2010\Projects\Uma24x\WpfApplication4\obj\x86\Release\Screen\AttactStcokwithProduct.baml
+C:\Users\Nazario\Documents\Visual Studio 2010\Projects\Uma24x\WpfApplication4\obj\x86\Release\Screen\CalculateScreen.baml
+C:\Users\Nazario\Documents\Visual Studio 2010\Projects\Uma24x\WpfApplication4\obj\x86\Release\Screen\OrderDetailScreen.baml
+C:\Users\Nazario\Documents\Visual Studio 2010\Projects\Uma24x\WpfApplication4\obj\x86\Release\Screen\OrderScreen.baml
+C:\Users\Nazario\Documents\Visual Studio 2010\Projects\Uma24x\WpfApplication4\obj\x86\Release\Screen\StockScreen.baml
+C:\Users\Nazario\Documents\Visual Studio 2010\Projects\Uma24x\WpfApplication4\obj\x86\Release\UMA24PR.g.resources
+C:\Users\Nazario\Documents\Visual Studio 2010\Projects\Uma24x\WpfApplication4\obj\x86\Release\UMA24.Properties.Resources.resources
+C:\Users\Nazario\Documents\Visual Studio 2010\Projects\Uma24x\WpfApplication4\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Nazario\Documents\Visual Studio 2010\Projects\Uma24x\WpfApplication4\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Nazario\Documents\Visual Studio 2010\Projects\Uma24x\WpfApplication4\obj\x86\Release\UMA24PR.exe
+C:\Users\Nazario\Documents\Visual Studio 2010\Projects\Uma24x\WpfApplication4\obj\x86\Release\UMA24PR.pdb
+C:\Users\Administrator\Desktop\Uma24x\WpfApplication4\bin\Release\UMA24PR.exe.config
+C:\Users\Administrator\Desktop\Uma24x\WpfApplication4\obj\x86\Release\Interop.iCaller.dll
+C:\Users\Administrator\Desktop\Uma24x\WpfApplication4\obj\x86\Release\UMA24x.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\Uma24x\WpfApplication4\obj\x86\Release\UMA24PR.exe
+C:\Users\Administrator\Desktop\Uma24x\WpfApplication4\obj\x86\Release\UMA24PR.pdb
+C:\Users\Administrator\Desktop\Uma24x\WpfApplication4\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Uma24x\WpfApplication4\obj\x86\Release\Screen\MainWindow.baml
+C:\Users\Administrator\Desktop\Uma24x\WpfApplication4\obj\x86\Release\Screen\ButtonSelectScreen.baml
+C:\Users\Administrator\Desktop\Uma24x\WpfApplication4\obj\x86\Release\Screen\ProductScreen.baml
+C:\Users\Administrator\Desktop\Uma24x\WpfApplication4\obj\x86\Release\Screen\AttactStcokwithProduct.g.cs
+C:\Users\Administrator\Desktop\Uma24x\WpfApplication4\obj\x86\Release\Screen\CalculateScreen.g.cs
+C:\Users\Administrator\Desktop\Uma24x\WpfApplication4\obj\x86\Release\Screen\MainWindow.g.cs
+C:\Users\Administrator\Desktop\Uma24x\WpfApplication4\obj\x86\Release\Screen\ButtonSelectScreen.g.cs
+C:\Users\Administrator\Desktop\Uma24x\WpfApplication4\obj\x86\Release\Screen\OrderDetailScreen.g.cs
+C:\Users\Administrator\Desktop\Uma24x\WpfApplication4\obj\x86\Release\Screen\OrderScreen.g.cs
+C:\Users\Administrator\Desktop\Uma24x\WpfApplication4\obj\x86\Release\Screen\ProductScreen.g.cs
+C:\Users\Administrator\Desktop\Uma24x\WpfApplication4\obj\x86\Release\Screen\StockScreen.g.cs
+C:\Users\Administrator\Desktop\Uma24x\WpfApplication4\obj\x86\Release\App.g.cs
+C:\Users\Administrator\Desktop\Uma24x\WpfApplication4\obj\x86\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\Administrator\Desktop\Uma24x\WpfApplication4\obj\x86\Release\UMA24PR_MarkupCompile.cache
+C:\Users\Administrator\Desktop\Uma24x\WpfApplication4\obj\x86\Release\UMA24PR_MarkupCompile.lref
+C:\Users\Administrator\Desktop\Uma24x\WpfApplication4\obj\x86\Release\Screen\AttactStcokwithProduct.baml
+C:\Users\Administrator\Desktop\Uma24x\WpfApplication4\obj\x86\Release\Screen\CalculateScreen.baml
+C:\Users\Administrator\Desktop\Uma24x\WpfApplication4\obj\x86\Release\Screen\OrderDetailScreen.baml
+C:\Users\Administrator\Desktop\Uma24x\WpfApplication4\obj\x86\Release\Screen\OrderScreen.baml
+C:\Users\Administrator\Desktop\Uma24x\WpfApplication4\obj\x86\Release\Screen\StockScreen.baml
+C:\Users\Administrator\Desktop\Uma24x\WpfApplication4\obj\x86\Release\UMA24PR.g.resources
+C:\Users\Administrator\Desktop\Uma24x\WpfApplication4\obj\x86\Release\UMA24.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Uma24x\WpfApplication4\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\Uma24x\WpfApplication4\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\Uma24x\WpfApplication4\bin\Release\UMA24PR.exe
+C:\Users\Administrator\Desktop\Uma24x\WpfApplication4\bin\Release\UMA24PR.pdb
+C:\Users\Nazario\Desktop\Uma24x\WpfApplication4\bin\Release\UMA24PR.exe.config
+C:\Users\Nazario\Desktop\Uma24x\WpfApplication4\obj\x86\Release\Interop.iCaller.dll
+C:\Users\Nazario\Desktop\Uma24x\WpfApplication4\obj\x86\Release\UMA24x.csproj.ResolveComReference.cache
+C:\Users\Nazario\Desktop\Uma24x\WpfApplication4\obj\x86\Release\UMA24PR.exe
+C:\Users\Nazario\Desktop\Uma24x\WpfApplication4\obj\x86\Release\UMA24PR.pdb
+C:\Users\Nazario\Desktop\Uma24x\WpfApplication4\bin\Release\UMA24PR.exe
+C:\Users\Nazario\Desktop\Uma24x\WpfApplication4\bin\Release\UMA24PR.pdb
+C:\Users\Nazario\Desktop\Uma24x\WpfApplication4\bin\Release\Microsoft.Expression.Drawing.dll
+C:\Users\Nazario\Desktop\Uma24x\WpfApplication4\bin\Release\Microsoft.Expression.Drawing.xml
+C:\Users\Nazario\Desktop\Uma24x\WpfApplication4\bin\Release\Stars.pdb
+C:\Users\Nazario\Desktop\Uma24x\WpfApplication4\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Nazario\Desktop\Uma24x\WpfApplication4\obj\x86\Release\Screen\MainWindow.baml
+C:\Users\Nazario\Desktop\Uma24x\WpfApplication4\obj\x86\Release\Screen\ButtonSelectScreen.baml
+C:\Users\Nazario\Desktop\Uma24x\WpfApplication4\obj\x86\Release\Screen\ProductScreen.baml
+C:\Users\Nazario\Desktop\Uma24x\WpfApplication4\obj\x86\Release\Screen\AttactStcokwithProduct.g.cs
+C:\Users\Nazario\Desktop\Uma24x\WpfApplication4\obj\x86\Release\Screen\CalculateScreen.g.cs
+C:\Users\Nazario\Desktop\Uma24x\WpfApplication4\obj\x86\Release\Screen\MainWindow.g.cs
+C:\Users\Nazario\Desktop\Uma24x\WpfApplication4\obj\x86\Release\Screen\ButtonSelectScreen.g.cs
+C:\Users\Nazario\Desktop\Uma24x\WpfApplication4\obj\x86\Release\Screen\OrderDetailScreen.g.cs
+C:\Users\Nazario\Desktop\Uma24x\WpfApplication4\obj\x86\Release\Screen\OrderScreen.g.cs
+C:\Users\Nazario\Desktop\Uma24x\WpfApplication4\obj\x86\Release\Screen\ProductScreen.g.cs
+C:\Users\Nazario\Desktop\Uma24x\WpfApplication4\obj\x86\Release\Screen\StockScreen.g.cs
+C:\Users\Nazario\Desktop\Uma24x\WpfApplication4\obj\x86\Release\App.g.cs
+C:\Users\Nazario\Desktop\Uma24x\WpfApplication4\obj\x86\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\Nazario\Desktop\Uma24x\WpfApplication4\obj\x86\Release\UMA24PR_MarkupCompile.cache
+C:\Users\Nazario\Desktop\Uma24x\WpfApplication4\obj\x86\Release\UMA24PR_MarkupCompile.lref
+C:\Users\Nazario\Desktop\Uma24x\WpfApplication4\obj\x86\Release\Screen\AttactStcokwithProduct.baml
+C:\Users\Nazario\Desktop\Uma24x\WpfApplication4\obj\x86\Release\Screen\CalculateScreen.baml
+C:\Users\Nazario\Desktop\Uma24x\WpfApplication4\obj\x86\Release\Screen\OrderDetailScreen.baml
+C:\Users\Nazario\Desktop\Uma24x\WpfApplication4\obj\x86\Release\Screen\OrderScreen.baml
+C:\Users\Nazario\Desktop\Uma24x\WpfApplication4\obj\x86\Release\Screen\StockScreen.baml
+C:\Users\Nazario\Desktop\Uma24x\WpfApplication4\obj\x86\Release\UMA24PR.g.resources
+C:\Users\Nazario\Desktop\Uma24x\WpfApplication4\obj\x86\Release\UMA24.Properties.Resources.resources
+C:\Users\Nazario\Desktop\Uma24x\WpfApplication4\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Nazario\Desktop\Uma24x\WpfApplication4\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\Uma24x\WpfApplication4\bin\Release\Microsoft.Expression.Drawing.xml
+C:\Users\Administrator\Desktop\Uma24x\WpfApplication4\bin\Release\Stars.pdb
+C:\Users\Public\Downloads\Uma24x\WpfApplication4\bin\Release\UMA24PR.exe.config
+C:\Users\Public\Downloads\Uma24x\WpfApplication4\obj\x86\Release\Interop.iCaller.dll
+C:\Users\Public\Downloads\Uma24x\WpfApplication4\obj\x86\Release\UMA24x.csproj.ResolveComReference.cache
+C:\Users\Public\Downloads\Uma24x\WpfApplication4\obj\x86\Release\UMA24PR.exe
+C:\Users\Public\Downloads\Uma24x\WpfApplication4\obj\x86\Release\UMA24PR.pdb
+\\UMA24\Public\Downloads\Uma24x\WpfApplication4\bin\Release\UMA24PR.exe.config
+\\UMA24\Public\Downloads\Uma24x\WpfApplication4\obj\x86\Release\Interop.iCaller.dll
+\\UMA24\Public\Downloads\Uma24x\WpfApplication4\obj\x86\Release\UMA24x.csproj.ResolveComReference.cache
+\\UMA24\Public\Downloads\Uma24x\WpfApplication4\obj\x86\Release\UMA24PR.exe
+\\UMA24\Public\Downloads\Uma24x\WpfApplication4\obj\x86\Release\UMA24PR.pdb
+\\UMA24\Public\Downloads\Uma24x\WpfApplication4\bin\Release\UMA24PR.exe.manifest
+\\UMA24\Public\Downloads\Uma24x\WpfApplication4\bin\Release\UMA24PR.application
+\\UMA24\Public\Downloads\Uma24x\WpfApplication4\bin\Release\UMA24PR.exe
+\\UMA24\Public\Downloads\Uma24x\WpfApplication4\bin\Release\UMA24PR.pdb
+\\UMA24\Public\Downloads\Uma24x\WpfApplication4\bin\Release\Microsoft.Expression.Drawing.dll
+\\UMA24\Public\Downloads\Uma24x\WpfApplication4\bin\Release\Microsoft.Expression.Drawing.xml
+\\UMA24\Public\Downloads\Uma24x\WpfApplication4\bin\Release\Stars.pdb
+\\UMA24\Public\Downloads\Uma24x\WpfApplication4\obj\x86\Release\ResolveAssemblyReference.cache
+\\UMA24\Public\Downloads\Uma24x\WpfApplication4\obj\x86\Release\Screen\MainWindow.baml
+\\UMA24\Public\Downloads\Uma24x\WpfApplication4\obj\x86\Release\Screen\ButtonSelectScreen.baml
+\\UMA24\Public\Downloads\Uma24x\WpfApplication4\obj\x86\Release\Screen\ProductScreen.baml
+\\UMA24\Public\Downloads\Uma24x\WpfApplication4\obj\x86\Release\Screen\AttactStcokwithProduct.g.cs
+\\UMA24\Public\Downloads\Uma24x\WpfApplication4\obj\x86\Release\Screen\CalculateScreen.g.cs
+\\UMA24\Public\Downloads\Uma24x\WpfApplication4\obj\x86\Release\Screen\MainWindow.g.cs
+\\UMA24\Public\Downloads\Uma24x\WpfApplication4\obj\x86\Release\Screen\ButtonSelectScreen.g.cs
+\\UMA24\Public\Downloads\Uma24x\WpfApplication4\obj\x86\Release\Screen\OrderDetailScreen.g.cs
+\\UMA24\Public\Downloads\Uma24x\WpfApplication4\obj\x86\Release\Screen\OrderScreen.g.cs
+\\UMA24\Public\Downloads\Uma24x\WpfApplication4\obj\x86\Release\Screen\ProductScreen.g.cs
+\\UMA24\Public\Downloads\Uma24x\WpfApplication4\obj\x86\Release\Screen\StockScreen.g.cs
+\\UMA24\Public\Downloads\Uma24x\WpfApplication4\obj\x86\Release\App.g.cs
+\\UMA24\Public\Downloads\Uma24x\WpfApplication4\obj\x86\Release\GeneratedInternalTypeHelper.g.cs
+\\UMA24\Public\Downloads\Uma24x\WpfApplication4\obj\x86\Release\UMA24PR_MarkupCompile.cache
+\\UMA24\Public\Downloads\Uma24x\WpfApplication4\obj\x86\Release\UMA24PR_MarkupCompile.lref
+\\UMA24\Public\Downloads\Uma24x\WpfApplication4\obj\x86\Release\Screen\AttactStcokwithProduct.baml
+\\UMA24\Public\Downloads\Uma24x\WpfApplication4\obj\x86\Release\Screen\CalculateScreen.baml
+\\UMA24\Public\Downloads\Uma24x\WpfApplication4\obj\x86\Release\Screen\OrderDetailScreen.baml
+\\UMA24\Public\Downloads\Uma24x\WpfApplication4\obj\x86\Release\Screen\OrderScreen.baml
+\\UMA24\Public\Downloads\Uma24x\WpfApplication4\obj\x86\Release\Screen\StockScreen.baml
+\\UMA24\Public\Downloads\Uma24x\WpfApplication4\obj\x86\Release\UMA24PR.g.resources
+\\UMA24\Public\Downloads\Uma24x\WpfApplication4\obj\x86\Release\UMA24.Properties.Resources.resources
+\\UMA24\Public\Downloads\Uma24x\WpfApplication4\obj\x86\Release\GenerateResource.read.1.tlog
+\\UMA24\Public\Downloads\Uma24x\WpfApplication4\obj\x86\Release\GenerateResource.write.1.tlog
+\\UMA24\Public\Downloads\Uma24x\WpfApplication4\obj\x86\Release\UMA24PR.TrustInfo.xml
+\\UMA24\Public\Downloads\Uma24x\WpfApplication4\obj\x86\Release\UMA24PR.exe.manifest
+\\UMA24\Public\Downloads\Uma24x\WpfApplication4\obj\x86\Release\UMA24PR.application
+C:\Users\Public\Downloads\Uma24x\WpfApplication4\bin\Release\UMA24PR.exe.manifest
+C:\Users\Public\Downloads\Uma24x\WpfApplication4\bin\Release\UMA24PR.application
+C:\Users\Public\Downloads\Uma24x\WpfApplication4\bin\Release\UMA24PR.exe
+C:\Users\Public\Downloads\Uma24x\WpfApplication4\bin\Release\UMA24PR.pdb
+C:\Users\Public\Downloads\Uma24x\WpfApplication4\bin\Release\Microsoft.Expression.Drawing.xml
+C:\Users\Public\Downloads\Uma24x\WpfApplication4\bin\Release\Stars.pdb
+C:\Users\Public\Downloads\Uma24x\WpfApplication4\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Public\Downloads\Uma24x\WpfApplication4\obj\x86\Release\Screen\MainWindow.baml
+C:\Users\Public\Downloads\Uma24x\WpfApplication4\obj\x86\Release\Screen\ButtonSelectScreen.baml
+C:\Users\Public\Downloads\Uma24x\WpfApplication4\obj\x86\Release\Screen\ProductScreen.baml
+C:\Users\Public\Downloads\Uma24x\WpfApplication4\obj\x86\Release\Screen\AttactStcokwithProduct.g.cs
+C:\Users\Public\Downloads\Uma24x\WpfApplication4\obj\x86\Release\Screen\CalculateScreen.g.cs
+C:\Users\Public\Downloads\Uma24x\WpfApplication4\obj\x86\Release\Screen\MainWindow.g.cs
+C:\Users\Public\Downloads\Uma24x\WpfApplication4\obj\x86\Release\Screen\ButtonSelectScreen.g.cs
+C:\Users\Public\Downloads\Uma24x\WpfApplication4\obj\x86\Release\Screen\OrderDetailScreen.g.cs
+C:\Users\Public\Downloads\Uma24x\WpfApplication4\obj\x86\Release\Screen\OrderScreen.g.cs
+C:\Users\Public\Downloads\Uma24x\WpfApplication4\obj\x86\Release\Screen\ProductScreen.g.cs
+C:\Users\Public\Downloads\Uma24x\WpfApplication4\obj\x86\Release\Screen\StockScreen.g.cs
+C:\Users\Public\Downloads\Uma24x\WpfApplication4\obj\x86\Release\App.g.cs
+C:\Users\Public\Downloads\Uma24x\WpfApplication4\obj\x86\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\Public\Downloads\Uma24x\WpfApplication4\obj\x86\Release\UMA24PR_MarkupCompile.cache
+C:\Users\Public\Downloads\Uma24x\WpfApplication4\obj\x86\Release\UMA24PR_MarkupCompile.lref
+C:\Users\Public\Downloads\Uma24x\WpfApplication4\obj\x86\Release\Screen\AttactStcokwithProduct.baml
+C:\Users\Public\Downloads\Uma24x\WpfApplication4\obj\x86\Release\Screen\CalculateScreen.baml
+C:\Users\Public\Downloads\Uma24x\WpfApplication4\obj\x86\Release\Screen\OrderDetailScreen.baml
+C:\Users\Public\Downloads\Uma24x\WpfApplication4\obj\x86\Release\Screen\OrderScreen.baml
+C:\Users\Public\Downloads\Uma24x\WpfApplication4\obj\x86\Release\Screen\StockScreen.baml
+C:\Users\Public\Downloads\Uma24x\WpfApplication4\obj\x86\Release\UMA24PR.g.resources
+C:\Users\Public\Downloads\Uma24x\WpfApplication4\obj\x86\Release\UMA24.Properties.Resources.resources
+C:\Users\Public\Downloads\Uma24x\WpfApplication4\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Public\Downloads\Uma24x\WpfApplication4\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Public\Downloads\Uma24x\WpfApplication4\obj\x86\Release\UMA24PR.TrustInfo.xml
+C:\Users\Public\Downloads\Uma24x\WpfApplication4\obj\x86\Release\UMA24PR.exe.manifest
+C:\Users\Public\Downloads\Uma24x\WpfApplication4\obj\x86\Release\UMA24PR.application
+C:\Users\Administrator\Desktop\Uma24x\WpfApplication4\bin\Release\UMA24PR.exe.manifest
+C:\Users\Administrator\Desktop\Uma24x\WpfApplication4\bin\Release\UMA24PR.application
+C:\Users\Administrator\Desktop\Uma24x\WpfApplication4\obj\x86\Release\UMA24PR.TrustInfo.xml
+C:\Users\Administrator\Desktop\Uma24x\WpfApplication4\obj\x86\Release\UMA24PR.exe.manifest
+C:\Users\Administrator\Desktop\Uma24x\WpfApplication4\obj\x86\Release\UMA24PR.application
+C:\Users\Uma24admin\Desktop\Uma24x\WpfApplication4\bin\Release\UMA24PR.exe.config
+C:\Users\Uma24admin\Desktop\Uma24x\WpfApplication4\obj\x86\Release\Interop.iCaller.dll
+C:\Users\Uma24admin\Desktop\Uma24x\WpfApplication4\obj\x86\Release\UMA24x.csproj.ResolveComReference.cache
+C:\Users\Uma24admin\Desktop\Uma24x\WpfApplication4\obj\x86\Release\UMA24PR.exe
+C:\Users\Uma24admin\Desktop\Uma24x\WpfApplication4\obj\x86\Release\UMA24PR.pdb
+C:\Users\Uma24admin\Desktop\Uma24x\WpfApplication4\bin\Release\UMA24PR.exe.manifest
+C:\Users\Uma24admin\Desktop\Uma24x\WpfApplication4\bin\Release\UMA24PR.application
+C:\Users\Uma24admin\Desktop\Uma24x\WpfApplication4\bin\Release\UMA24PR.exe
+C:\Users\Uma24admin\Desktop\Uma24x\WpfApplication4\bin\Release\UMA24PR.pdb
+C:\Users\Uma24admin\Desktop\Uma24x\WpfApplication4\bin\Release\Microsoft.Expression.Drawing.xml
+C:\Users\Uma24admin\Desktop\Uma24x\WpfApplication4\bin\Release\Stars.pdb
+C:\Users\Uma24admin\Desktop\Uma24x\WpfApplication4\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Uma24admin\Desktop\Uma24x\WpfApplication4\obj\x86\Release\Screen\MainWindow.baml
+C:\Users\Uma24admin\Desktop\Uma24x\WpfApplication4\obj\x86\Release\Screen\ButtonSelectScreen.baml
+C:\Users\Uma24admin\Desktop\Uma24x\WpfApplication4\obj\x86\Release\Screen\ProductScreen.baml
+C:\Users\Uma24admin\Desktop\Uma24x\WpfApplication4\obj\x86\Release\Screen\AttactStcokwithProduct.g.cs
+C:\Users\Uma24admin\Desktop\Uma24x\WpfApplication4\obj\x86\Release\Screen\CalculateScreen.g.cs
+C:\Users\Uma24admin\Desktop\Uma24x\WpfApplication4\obj\x86\Release\Screen\MainWindow.g.cs
+C:\Users\Uma24admin\Desktop\Uma24x\WpfApplication4\obj\x86\Release\Screen\ButtonSelectScreen.g.cs
+C:\Users\Uma24admin\Desktop\Uma24x\WpfApplication4\obj\x86\Release\Screen\OrderDetailScreen.g.cs
+C:\Users\Uma24admin\Desktop\Uma24x\WpfApplication4\obj\x86\Release\Screen\OrderScreen.g.cs
+C:\Users\Uma24admin\Desktop\Uma24x\WpfApplication4\obj\x86\Release\Screen\ProductScreen.g.cs
+C:\Users\Uma24admin\Desktop\Uma24x\WpfApplication4\obj\x86\Release\Screen\StockScreen.g.cs
+C:\Users\Uma24admin\Desktop\Uma24x\WpfApplication4\obj\x86\Release\App.g.cs
+C:\Users\Uma24admin\Desktop\Uma24x\WpfApplication4\obj\x86\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\Uma24admin\Desktop\Uma24x\WpfApplication4\obj\x86\Release\UMA24PR_MarkupCompile.cache
+C:\Users\Uma24admin\Desktop\Uma24x\WpfApplication4\obj\x86\Release\UMA24PR_MarkupCompile.lref
+C:\Users\Uma24admin\Desktop\Uma24x\WpfApplication4\obj\x86\Release\Screen\AttactStcokwithProduct.baml
+C:\Users\Uma24admin\Desktop\Uma24x\WpfApplication4\obj\x86\Release\Screen\CalculateScreen.baml
+C:\Users\Uma24admin\Desktop\Uma24x\WpfApplication4\obj\x86\Release\Screen\OrderDetailScreen.baml
+C:\Users\Uma24admin\Desktop\Uma24x\WpfApplication4\obj\x86\Release\Screen\OrderScreen.baml
+C:\Users\Uma24admin\Desktop\Uma24x\WpfApplication4\obj\x86\Release\Screen\StockScreen.baml
+C:\Users\Uma24admin\Desktop\Uma24x\WpfApplication4\obj\x86\Release\UMA24PR.g.resources
+C:\Users\Uma24admin\Desktop\Uma24x\WpfApplication4\obj\x86\Release\UMA24.Properties.Resources.resources
+C:\Users\Uma24admin\Desktop\Uma24x\WpfApplication4\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Uma24admin\Desktop\Uma24x\WpfApplication4\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Uma24admin\Desktop\Uma24x\WpfApplication4\obj\x86\Release\UMA24PR.TrustInfo.xml
+C:\Users\Uma24admin\Desktop\Uma24x\WpfApplication4\obj\x86\Release\UMA24PR.exe.manifest
+C:\Users\Uma24admin\Desktop\Uma24x\WpfApplication4\obj\x86\Release\UMA24PR.application
+C:\Users\kichiri\Desktop\Uma24x\WpfApplication4\bin\Release\UMA24PR.exe.config
+C:\Users\kichiri\Desktop\Uma24x\WpfApplication4\obj\x86\Release\Interop.iCaller.dll
+C:\Users\kichiri\Desktop\Uma24x\WpfApplication4\obj\x86\Release\UMA24x.csproj.ResolveComReference.cache
+C:\Users\kichiri\Desktop\Uma24x\WpfApplication4\obj\x86\Release\UMA24PR.exe
+C:\Users\kichiri\Desktop\Uma24x\WpfApplication4\obj\x86\Release\UMA24PR.pdb
+C:\Users\kichiri\Desktop\Uma24x\WpfApplication4\bin\Release\UMA24PR.exe.manifest
+C:\Users\kichiri\Desktop\Uma24x\WpfApplication4\bin\Release\UMA24PR.application
+C:\Users\kichiri\Desktop\Uma24x\WpfApplication4\bin\Release\UMA24PR.exe
+C:\Users\kichiri\Desktop\Uma24x\WpfApplication4\bin\Release\UMA24PR.pdb
+C:\Users\kichiri\Desktop\Uma24x\WpfApplication4\bin\Release\Microsoft.Expression.Drawing.xml
+C:\Users\kichiri\Desktop\Uma24x\WpfApplication4\bin\Release\Stars.pdb
+C:\Users\kichiri\Desktop\Uma24x\WpfApplication4\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\kichiri\Desktop\Uma24x\WpfApplication4\obj\x86\Release\Screen\MainWindow.baml
+C:\Users\kichiri\Desktop\Uma24x\WpfApplication4\obj\x86\Release\Screen\ButtonSelectScreen.baml
+C:\Users\kichiri\Desktop\Uma24x\WpfApplication4\obj\x86\Release\Screen\ProductScreen.baml
+C:\Users\kichiri\Desktop\Uma24x\WpfApplication4\obj\x86\Release\Screen\AttactStcokwithProduct.g.cs
+C:\Users\kichiri\Desktop\Uma24x\WpfApplication4\obj\x86\Release\Screen\CalculateScreen.g.cs
+C:\Users\kichiri\Desktop\Uma24x\WpfApplication4\obj\x86\Release\Screen\MainWindow.g.cs
+C:\Users\kichiri\Desktop\Uma24x\WpfApplication4\obj\x86\Release\Screen\ButtonSelectScreen.g.cs
+C:\Users\kichiri\Desktop\Uma24x\WpfApplication4\obj\x86\Release\Screen\OrderDetailScreen.g.cs
+C:\Users\kichiri\Desktop\Uma24x\WpfApplication4\obj\x86\Release\Screen\OrderScreen.g.cs
+C:\Users\kichiri\Desktop\Uma24x\WpfApplication4\obj\x86\Release\Screen\ProductScreen.g.cs
+C:\Users\kichiri\Desktop\Uma24x\WpfApplication4\obj\x86\Release\Screen\StockScreen.g.cs
+C:\Users\kichiri\Desktop\Uma24x\WpfApplication4\obj\x86\Release\App.g.cs
+C:\Users\kichiri\Desktop\Uma24x\WpfApplication4\obj\x86\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\kichiri\Desktop\Uma24x\WpfApplication4\obj\x86\Release\UMA24PR_MarkupCompile.cache
+C:\Users\kichiri\Desktop\Uma24x\WpfApplication4\obj\x86\Release\UMA24PR_MarkupCompile.lref
+C:\Users\kichiri\Desktop\Uma24x\WpfApplication4\obj\x86\Release\Screen\AttactStcokwithProduct.baml
+C:\Users\kichiri\Desktop\Uma24x\WpfApplication4\obj\x86\Release\Screen\CalculateScreen.baml
+C:\Users\kichiri\Desktop\Uma24x\WpfApplication4\obj\x86\Release\Screen\OrderDetailScreen.baml
+C:\Users\kichiri\Desktop\Uma24x\WpfApplication4\obj\x86\Release\Screen\OrderScreen.baml
+C:\Users\kichiri\Desktop\Uma24x\WpfApplication4\obj\x86\Release\Screen\StockScreen.baml
+C:\Users\kichiri\Desktop\Uma24x\WpfApplication4\obj\x86\Release\UMA24PR.g.resources
+C:\Users\kichiri\Desktop\Uma24x\WpfApplication4\obj\x86\Release\UMA24.Properties.Resources.resources
+C:\Users\kichiri\Desktop\Uma24x\WpfApplication4\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\kichiri\Desktop\Uma24x\WpfApplication4\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\kichiri\Desktop\Uma24x\WpfApplication4\obj\x86\Release\UMA24PR.TrustInfo.xml
+C:\Users\kichiri\Desktop\Uma24x\WpfApplication4\obj\x86\Release\UMA24PR.exe.manifest
+C:\Users\kichiri\Desktop\Uma24x\WpfApplication4\obj\x86\Release\UMA24PR.application
+C:\Users\kichiri\Desktop\Uma24x\WpfApplication4\bin\Release\NLog.dll
+C:\Users\kichiri\Desktop\Uma24x\WpfApplication4\bin\Release\NLog.xml
+C:\Users\kichiri\Desktop\Uma24x\WpfApplication4\bin\Release\NLog.config
+C:\Users\Public\Downloads\Uma24x\WpfApplication4\bin\Release\NLog.config
+C:\Users\Public\Downloads\Uma24x\WpfApplication4\bin\Release\NLog.xml
+C:\Users\Public\Downloads\Uma24x\WpfApplication4\obj\x86\Release\Screen\priceScreen.baml
+C:\Users\Public\Downloads\Uma24x\WpfApplication4\obj\x86\Release\Screen\priceScreen.g.cs
+C:\Users\Public\Downloads\Uma24x\WpfApplication4\obj\x86\Release\Screen\AddOnScr.baml
+C:\Users\Public\Downloads\Uma24x\WpfApplication4\obj\x86\Release\Screen\AddOnScr.g.cs
+C:\Users\Public\Downloads\Uma24x - browser\WpfApplication4\bin\Release\UMA24PR.exe.config
+C:\Users\Public\Downloads\Uma24x - browser\WpfApplication4\obj\x86\Release\Interop.iCaller.dll
+C:\Users\Public\Downloads\Uma24x - browser\WpfApplication4\obj\x86\Release\UMA24x.csproj.ResolveComReference.cache
+C:\Users\Public\Downloads\Uma24x - browser\WpfApplication4\obj\x86\Release\UMA24PR.exe
+C:\Users\Public\Downloads\Uma24x - browser\WpfApplication4\obj\x86\Release\UMA24PR.pdb
+C:\Users\Public\Downloads\Uma24x - browser\WpfApplication4\bin\Release\NLog.config
+C:\Users\Public\Downloads\Uma24x - browser\WpfApplication4\bin\Release\UMA24PR.exe.manifest
+C:\Users\Public\Downloads\Uma24x - browser\WpfApplication4\bin\Release\UMA24PR.application
+C:\Users\Public\Downloads\Uma24x - browser\WpfApplication4\bin\Release\UMA24PR.exe
+C:\Users\Public\Downloads\Uma24x - browser\WpfApplication4\bin\Release\UMA24PR.pdb
+C:\Users\Public\Downloads\Uma24x - browser\WpfApplication4\bin\Release\Microsoft.Expression.Drawing.xml
+C:\Users\Public\Downloads\Uma24x - browser\WpfApplication4\bin\Release\NLog.xml
+C:\Users\Public\Downloads\Uma24x - browser\WpfApplication4\bin\Release\Stars.pdb
+C:\Users\Public\Downloads\Uma24x - browser\WpfApplication4\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Public\Downloads\Uma24x - browser\WpfApplication4\obj\x86\Release\Screen\AddOnScr.baml
+C:\Users\Public\Downloads\Uma24x - browser\WpfApplication4\obj\x86\Release\Screen\MainWindow.baml
+C:\Users\Public\Downloads\Uma24x - browser\WpfApplication4\obj\x86\Release\Screen\ButtonSelectScreen.baml
+C:\Users\Public\Downloads\Uma24x - browser\WpfApplication4\obj\x86\Release\Screen\priceScreen.baml
+C:\Users\Public\Downloads\Uma24x - browser\WpfApplication4\obj\x86\Release\Screen\ProductScreen.baml
+C:\Users\Public\Downloads\Uma24x - browser\WpfApplication4\obj\x86\Release\Screen\AddOnScr.g.cs
+C:\Users\Public\Downloads\Uma24x - browser\WpfApplication4\obj\x86\Release\Screen\AttactStcokwithProduct.g.cs
+C:\Users\Public\Downloads\Uma24x - browser\WpfApplication4\obj\x86\Release\Screen\CalculateScreen.g.cs
+C:\Users\Public\Downloads\Uma24x - browser\WpfApplication4\obj\x86\Release\Screen\MainWindow.g.cs
+C:\Users\Public\Downloads\Uma24x - browser\WpfApplication4\obj\x86\Release\Screen\ButtonSelectScreen.g.cs
+C:\Users\Public\Downloads\Uma24x - browser\WpfApplication4\obj\x86\Release\Screen\OrderDetailScreen.g.cs
+C:\Users\Public\Downloads\Uma24x - browser\WpfApplication4\obj\x86\Release\Screen\OrderScreen.g.cs
+C:\Users\Public\Downloads\Uma24x - browser\WpfApplication4\obj\x86\Release\Screen\priceScreen.g.cs
+C:\Users\Public\Downloads\Uma24x - browser\WpfApplication4\obj\x86\Release\Screen\ProductScreen.g.cs
+C:\Users\Public\Downloads\Uma24x - browser\WpfApplication4\obj\x86\Release\Screen\StockScreen.g.cs
+C:\Users\Public\Downloads\Uma24x - browser\WpfApplication4\obj\x86\Release\App.g.cs
+C:\Users\Public\Downloads\Uma24x - browser\WpfApplication4\obj\x86\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\Public\Downloads\Uma24x - browser\WpfApplication4\obj\x86\Release\UMA24PR_MarkupCompile.cache
+C:\Users\Public\Downloads\Uma24x - browser\WpfApplication4\obj\x86\Release\UMA24PR_MarkupCompile.lref
+C:\Users\Public\Downloads\Uma24x - browser\WpfApplication4\obj\x86\Release\Screen\AttactStcokwithProduct.baml
+C:\Users\Public\Downloads\Uma24x - browser\WpfApplication4\obj\x86\Release\Screen\CalculateScreen.baml
+C:\Users\Public\Downloads\Uma24x - browser\WpfApplication4\obj\x86\Release\Screen\OrderDetailScreen.baml
+C:\Users\Public\Downloads\Uma24x - browser\WpfApplication4\obj\x86\Release\Screen\OrderScreen.baml
+C:\Users\Public\Downloads\Uma24x - browser\WpfApplication4\obj\x86\Release\Screen\StockScreen.baml
+C:\Users\Public\Downloads\Uma24x - browser\WpfApplication4\obj\x86\Release\UMA24PR.g.resources
+C:\Users\Public\Downloads\Uma24x - browser\WpfApplication4\obj\x86\Release\UMA24.Properties.Resources.resources
+C:\Users\Public\Downloads\Uma24x - browser\WpfApplication4\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Public\Downloads\Uma24x - browser\WpfApplication4\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Public\Downloads\Uma24x - browser\WpfApplication4\obj\x86\Release\UMA24PR.TrustInfo.xml
+C:\Users\Public\Downloads\Uma24x - browser\WpfApplication4\obj\x86\Release\UMA24PR.exe.manifest
+C:\Users\Public\Downloads\Uma24x - browser\WpfApplication4\obj\x86\Release\UMA24PR.application
+C:\Users\Public\Downloads\Uma24x - browser\WpfApplication4\obj\x86\Release\Screen\MapScreen.baml
+C:\Users\Public\Downloads\Uma24x - browser\WpfApplication4\obj\x86\Release\Screen\MapScreen.g.cs
+C:\Users\Public\Downloads\Uma24x2\WpfApplication4\bin\Release\UMA24PR.exe.config
+C:\Users\Public\Downloads\Uma24x2\WpfApplication4\obj\x86\Release\Interop.iCaller.dll
+C:\Users\Public\Downloads\Uma24x2\WpfApplication4\obj\x86\Release\UMA24x.csproj.ResolveComReference.cache
+C:\Users\Public\Downloads\Uma24x2\WpfApplication4\obj\x86\Release\UMA24PR.exe
+C:\Users\Public\Downloads\Uma24x2\WpfApplication4\obj\x86\Release\UMA24PR.pdb
+C:\Users\Public\Downloads\Uma24x2\WpfApplication4\bin\Release\NLog.config
+C:\Users\Public\Downloads\Uma24x2\WpfApplication4\bin\Release\UMA24PR.exe.manifest
+C:\Users\Public\Downloads\Uma24x2\WpfApplication4\bin\Release\UMA24PR.application
+C:\Users\Public\Downloads\Uma24x2\WpfApplication4\bin\Release\UMA24PR.exe
+C:\Users\Public\Downloads\Uma24x2\WpfApplication4\bin\Release\UMA24PR.pdb
+C:\Users\Public\Downloads\Uma24x2\WpfApplication4\bin\Release\Microsoft.Expression.Drawing.xml
+C:\Users\Public\Downloads\Uma24x2\WpfApplication4\bin\Release\NLog.xml
+C:\Users\Public\Downloads\Uma24x2\WpfApplication4\bin\Release\Stars.pdb
+C:\Users\Public\Downloads\Uma24x2\WpfApplication4\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Public\Downloads\Uma24x2\WpfApplication4\obj\x86\Release\Screen\AddOnScr.baml
+C:\Users\Public\Downloads\Uma24x2\WpfApplication4\obj\x86\Release\Screen\MainWindow.baml
+C:\Users\Public\Downloads\Uma24x2\WpfApplication4\obj\x86\Release\Screen\ButtonSelectScreen.baml
+C:\Users\Public\Downloads\Uma24x2\WpfApplication4\obj\x86\Release\Screen\MapScreen.baml
+C:\Users\Public\Downloads\Uma24x2\WpfApplication4\obj\x86\Release\Screen\priceScreen.baml
+C:\Users\Public\Downloads\Uma24x2\WpfApplication4\obj\x86\Release\Screen\ProductScreen.baml
+C:\Users\Public\Downloads\Uma24x2\WpfApplication4\obj\x86\Release\Screen\AddOnScr.g.cs
+C:\Users\Public\Downloads\Uma24x2\WpfApplication4\obj\x86\Release\Screen\AttactStcokwithProduct.g.cs
+C:\Users\Public\Downloads\Uma24x2\WpfApplication4\obj\x86\Release\Screen\CalculateScreen.g.cs
+C:\Users\Public\Downloads\Uma24x2\WpfApplication4\obj\x86\Release\Screen\MainWindow.g.cs
+C:\Users\Public\Downloads\Uma24x2\WpfApplication4\obj\x86\Release\Screen\ButtonSelectScreen.g.cs
+C:\Users\Public\Downloads\Uma24x2\WpfApplication4\obj\x86\Release\Screen\MapScreen.g.cs
+C:\Users\Public\Downloads\Uma24x2\WpfApplication4\obj\x86\Release\Screen\OrderDetailScreen.g.cs
+C:\Users\Public\Downloads\Uma24x2\WpfApplication4\obj\x86\Release\Screen\OrderScreen.g.cs
+C:\Users\Public\Downloads\Uma24x2\WpfApplication4\obj\x86\Release\Screen\priceScreen.g.cs
+C:\Users\Public\Downloads\Uma24x2\WpfApplication4\obj\x86\Release\Screen\ProductScreen.g.cs
+C:\Users\Public\Downloads\Uma24x2\WpfApplication4\obj\x86\Release\Screen\StockScreen.g.cs
+C:\Users\Public\Downloads\Uma24x2\WpfApplication4\obj\x86\Release\App.g.cs
+C:\Users\Public\Downloads\Uma24x2\WpfApplication4\obj\x86\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\Public\Downloads\Uma24x2\WpfApplication4\obj\x86\Release\UMA24PR_MarkupCompile.cache
+C:\Users\Public\Downloads\Uma24x2\WpfApplication4\obj\x86\Release\UMA24PR_MarkupCompile.lref
+C:\Users\Public\Downloads\Uma24x2\WpfApplication4\obj\x86\Release\Screen\AttactStcokwithProduct.baml
+C:\Users\Public\Downloads\Uma24x2\WpfApplication4\obj\x86\Release\Screen\CalculateScreen.baml
+C:\Users\Public\Downloads\Uma24x2\WpfApplication4\obj\x86\Release\Screen\OrderDetailScreen.baml
+C:\Users\Public\Downloads\Uma24x2\WpfApplication4\obj\x86\Release\Screen\OrderScreen.baml
+C:\Users\Public\Downloads\Uma24x2\WpfApplication4\obj\x86\Release\Screen\StockScreen.baml
+C:\Users\Public\Downloads\Uma24x2\WpfApplication4\obj\x86\Release\UMA24PR.g.resources
+C:\Users\Public\Downloads\Uma24x2\WpfApplication4\obj\x86\Release\UMA24.Properties.Resources.resources
+C:\Users\Public\Downloads\Uma24x2\WpfApplication4\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Public\Downloads\Uma24x2\WpfApplication4\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Public\Downloads\Uma24x2\WpfApplication4\obj\x86\Release\UMA24PR.TrustInfo.xml
+C:\Users\Public\Downloads\Uma24x2\WpfApplication4\obj\x86\Release\UMA24PR.exe.manifest
+C:\Users\Public\Downloads\Uma24x2\WpfApplication4\obj\x86\Release\UMA24PR.application
+C:\Users\Public\Downloads\Uma24x2\WpfApplication4\obj\x86\Release\Screen\CallerInformation.baml
+C:\Users\Public\Downloads\Uma24x2\WpfApplication4\obj\x86\Release\Screen\CallerInformation.g.cs
+C:\Users\Public\Downloads\Uma24x\WpfApplication4\obj\x86\Release\Screen\CallerInformation.baml
+C:\Users\Public\Downloads\Uma24x\WpfApplication4\obj\x86\Release\Screen\MapScreen.baml
+C:\Users\Public\Downloads\Uma24x\WpfApplication4\obj\x86\Release\Screen\CallerInformation.g.cs
+C:\Users\Public\Downloads\Uma24x\WpfApplication4\obj\x86\Release\Screen\MapScreen.g.cs
+C:\Users\Nazario\Desktop\Uma24x\WpfApplication4\bin\Release\NLog.config
+C:\Users\Nazario\Desktop\Uma24x\WpfApplication4\bin\Release\UMA24PR.exe.manifest
+C:\Users\Nazario\Desktop\Uma24x\WpfApplication4\bin\Release\UMA24PR.application
+C:\Users\Nazario\Desktop\Uma24x\WpfApplication4\bin\Release\NLog.xml
+C:\Users\Nazario\Desktop\Uma24x\WpfApplication4\obj\x86\Release\Screen\AddOnScr.baml
+C:\Users\Nazario\Desktop\Uma24x\WpfApplication4\obj\x86\Release\Screen\CallerInformation.baml
+C:\Users\Nazario\Desktop\Uma24x\WpfApplication4\obj\x86\Release\Screen\MapScreen.baml
+C:\Users\Nazario\Desktop\Uma24x\WpfApplication4\obj\x86\Release\Screen\priceScreen.baml
+C:\Users\Nazario\Desktop\Uma24x\WpfApplication4\obj\x86\Release\Screen\AddOnScr.g.cs
+C:\Users\Nazario\Desktop\Uma24x\WpfApplication4\obj\x86\Release\Screen\CallerInformation.g.cs
+C:\Users\Nazario\Desktop\Uma24x\WpfApplication4\obj\x86\Release\Screen\MapScreen.g.cs
+C:\Users\Nazario\Desktop\Uma24x\WpfApplication4\obj\x86\Release\Screen\priceScreen.g.cs
+C:\Users\Nazario\Desktop\Uma24x\WpfApplication4\obj\x86\Release\UMA24PR.TrustInfo.xml
+C:\Users\Nazario\Desktop\Uma24x\WpfApplication4\obj\x86\Release\UMA24PR.exe.manifest
+C:\Users\Nazario\Desktop\Uma24x\WpfApplication4\obj\x86\Release\UMA24PR.application
+C:\Users\Public\Downloads\Uma24x3\WpfApplication4\bin\Release\UMA24PR.exe.config
+C:\Users\Public\Downloads\Uma24x3\WpfApplication4\obj\x86\Release\Interop.iCaller.dll
+C:\Users\Public\Downloads\Uma24x3\WpfApplication4\obj\x86\Release\UMA24x.csproj.ResolveComReference.cache
+C:\Users\Public\Downloads\Uma24x3\WpfApplication4\obj\x86\Release\UMA24PR.exe
+C:\Users\Public\Downloads\Uma24x3\WpfApplication4\obj\x86\Release\UMA24PR.pdb
+C:\Users\Public\Downloads\Uma24x3\WpfApplication4\bin\Release\NLog.config
+C:\Users\Public\Downloads\Uma24x3\WpfApplication4\bin\Release\UMA24PR.exe.manifest
+C:\Users\Public\Downloads\Uma24x3\WpfApplication4\bin\Release\UMA24PR.application
+C:\Users\Public\Downloads\Uma24x3\WpfApplication4\bin\Release\UMA24PR.exe
+C:\Users\Public\Downloads\Uma24x3\WpfApplication4\bin\Release\UMA24PR.pdb
+C:\Users\Public\Downloads\Uma24x3\WpfApplication4\bin\Release\Microsoft.Expression.Drawing.xml
+C:\Users\Public\Downloads\Uma24x3\WpfApplication4\bin\Release\NLog.xml
+C:\Users\Public\Downloads\Uma24x3\WpfApplication4\bin\Release\Stars.pdb
+C:\Users\Public\Downloads\Uma24x3\WpfApplication4\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Public\Downloads\Uma24x3\WpfApplication4\obj\x86\Release\Screen\AddOnScr.baml
+C:\Users\Public\Downloads\Uma24x3\WpfApplication4\obj\x86\Release\Screen\CallerInformation.baml
+C:\Users\Public\Downloads\Uma24x3\WpfApplication4\obj\x86\Release\Screen\MainWindow.baml
+C:\Users\Public\Downloads\Uma24x3\WpfApplication4\obj\x86\Release\Screen\ButtonSelectScreen.baml
+C:\Users\Public\Downloads\Uma24x3\WpfApplication4\obj\x86\Release\Screen\MapScreen.baml
+C:\Users\Public\Downloads\Uma24x3\WpfApplication4\obj\x86\Release\Screen\priceScreen.baml
+C:\Users\Public\Downloads\Uma24x3\WpfApplication4\obj\x86\Release\Screen\ProductScreen.baml
+C:\Users\Public\Downloads\Uma24x3\WpfApplication4\obj\x86\Release\Screen\AddOnScr.g.cs
+C:\Users\Public\Downloads\Uma24x3\WpfApplication4\obj\x86\Release\Screen\AttactStcokwithProduct.g.cs
+C:\Users\Public\Downloads\Uma24x3\WpfApplication4\obj\x86\Release\Screen\CalculateScreen.g.cs
+C:\Users\Public\Downloads\Uma24x3\WpfApplication4\obj\x86\Release\Screen\CallerInformation.g.cs
+C:\Users\Public\Downloads\Uma24x3\WpfApplication4\obj\x86\Release\Screen\MainWindow.g.cs
+C:\Users\Public\Downloads\Uma24x3\WpfApplication4\obj\x86\Release\Screen\ButtonSelectScreen.g.cs
+C:\Users\Public\Downloads\Uma24x3\WpfApplication4\obj\x86\Release\Screen\MapScreen.g.cs
+C:\Users\Public\Downloads\Uma24x3\WpfApplication4\obj\x86\Release\Screen\OrderDetailScreen.g.cs
+C:\Users\Public\Downloads\Uma24x3\WpfApplication4\obj\x86\Release\Screen\OrderScreen.g.cs
+C:\Users\Public\Downloads\Uma24x3\WpfApplication4\obj\x86\Release\Screen\priceScreen.g.cs
+C:\Users\Public\Downloads\Uma24x3\WpfApplication4\obj\x86\Release\Screen\ProductScreen.g.cs
+C:\Users\Public\Downloads\Uma24x3\WpfApplication4\obj\x86\Release\Screen\StockScreen.g.cs
+C:\Users\Public\Downloads\Uma24x3\WpfApplication4\obj\x86\Release\App.g.cs
+C:\Users\Public\Downloads\Uma24x3\WpfApplication4\obj\x86\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\Public\Downloads\Uma24x3\WpfApplication4\obj\x86\Release\UMA24PR_MarkupCompile.cache
+C:\Users\Public\Downloads\Uma24x3\WpfApplication4\obj\x86\Release\UMA24PR_MarkupCompile.lref
+C:\Users\Public\Downloads\Uma24x3\WpfApplication4\obj\x86\Release\Screen\AttactStcokwithProduct.baml
+C:\Users\Public\Downloads\Uma24x3\WpfApplication4\obj\x86\Release\Screen\CalculateScreen.baml
+C:\Users\Public\Downloads\Uma24x3\WpfApplication4\obj\x86\Release\Screen\OrderDetailScreen.baml
+C:\Users\Public\Downloads\Uma24x3\WpfApplication4\obj\x86\Release\Screen\OrderScreen.baml
+C:\Users\Public\Downloads\Uma24x3\WpfApplication4\obj\x86\Release\Screen\StockScreen.baml
+C:\Users\Public\Downloads\Uma24x3\WpfApplication4\obj\x86\Release\UMA24PR.g.resources
+C:\Users\Public\Downloads\Uma24x3\WpfApplication4\obj\x86\Release\UMA24.Properties.Resources.resources
+C:\Users\Public\Downloads\Uma24x3\WpfApplication4\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Public\Downloads\Uma24x3\WpfApplication4\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Public\Downloads\Uma24x3\WpfApplication4\obj\x86\Release\UMA24PR.TrustInfo.xml
+C:\Users\Public\Downloads\Uma24x3\WpfApplication4\obj\x86\Release\UMA24PR.exe.manifest
+C:\Users\Public\Downloads\Uma24x3\WpfApplication4\obj\x86\Release\UMA24PR.application
+C:\Users\Nazario\Desktop\Uma24x4\WpfApplication4\bin\Release\UMA24PR.exe.config
+C:\Users\Nazario\Desktop\Uma24x4\WpfApplication4\obj\x86\Release\Interop.iCaller.dll
+C:\Users\Nazario\Desktop\Uma24x4\WpfApplication4\obj\x86\Release\UMA24x.csproj.ResolveComReference.cache
+C:\Users\Nazario\Desktop\Uma24x4\WpfApplication4\obj\x86\Release\UMA24PR.exe
+C:\Users\Nazario\Desktop\Uma24x4\WpfApplication4\obj\x86\Release\UMA24PR.pdb
+C:\Users\Nazario\Desktop\Uma24x4\WpfApplication4\bin\Release\NLog.config
+C:\Users\Nazario\Desktop\Uma24x4\WpfApplication4\bin\Release\UMA24PR.exe.manifest
+C:\Users\Nazario\Desktop\Uma24x4\WpfApplication4\bin\Release\UMA24PR.application
+C:\Users\Nazario\Desktop\Uma24x4\WpfApplication4\bin\Release\UMA24PR.exe
+C:\Users\Nazario\Desktop\Uma24x4\WpfApplication4\bin\Release\UMA24PR.pdb
+C:\Users\Nazario\Desktop\Uma24x4\WpfApplication4\bin\Release\Microsoft.Expression.Drawing.xml
+C:\Users\Nazario\Desktop\Uma24x4\WpfApplication4\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Nazario\Desktop\Uma24x4\WpfApplication4\obj\x86\Release\Screen\AddOnScr.baml
+C:\Users\Nazario\Desktop\Uma24x4\WpfApplication4\obj\x86\Release\Screen\CallerInformation.baml
+C:\Users\Nazario\Desktop\Uma24x4\WpfApplication4\obj\x86\Release\Screen\MainWindow.baml
+C:\Users\Nazario\Desktop\Uma24x4\WpfApplication4\obj\x86\Release\Screen\ButtonSelectScreen.baml
+C:\Users\Nazario\Desktop\Uma24x4\WpfApplication4\obj\x86\Release\Screen\MapScreen.baml
+C:\Users\Nazario\Desktop\Uma24x4\WpfApplication4\obj\x86\Release\Screen\priceScreen.baml
+C:\Users\Nazario\Desktop\Uma24x4\WpfApplication4\obj\x86\Release\Screen\ProductScreen.baml
+C:\Users\Nazario\Desktop\Uma24x4\WpfApplication4\obj\x86\Release\Screen\AddOnScr.g.cs
+C:\Users\Nazario\Desktop\Uma24x4\WpfApplication4\obj\x86\Release\Screen\AttactStcokwithProduct.g.cs
+C:\Users\Nazario\Desktop\Uma24x4\WpfApplication4\obj\x86\Release\Screen\CalculateScreen.g.cs
+C:\Users\Nazario\Desktop\Uma24x4\WpfApplication4\obj\x86\Release\Screen\CallerInformation.g.cs
+C:\Users\Nazario\Desktop\Uma24x4\WpfApplication4\obj\x86\Release\Screen\MainWindow.g.cs
+C:\Users\Nazario\Desktop\Uma24x4\WpfApplication4\obj\x86\Release\Screen\ButtonSelectScreen.g.cs
+C:\Users\Nazario\Desktop\Uma24x4\WpfApplication4\obj\x86\Release\Screen\MapScreen.g.cs
+C:\Users\Nazario\Desktop\Uma24x4\WpfApplication4\obj\x86\Release\Screen\OrderDetailScreen.g.cs
+C:\Users\Nazario\Desktop\Uma24x4\WpfApplication4\obj\x86\Release\Screen\OrderScreen.g.cs
+C:\Users\Nazario\Desktop\Uma24x4\WpfApplication4\obj\x86\Release\Screen\priceScreen.g.cs
+C:\Users\Nazario\Desktop\Uma24x4\WpfApplication4\obj\x86\Release\Screen\ProductScreen.g.cs
+C:\Users\Nazario\Desktop\Uma24x4\WpfApplication4\obj\x86\Release\Screen\StockScreen.g.cs
+C:\Users\Nazario\Desktop\Uma24x4\WpfApplication4\obj\x86\Release\App.g.cs
+C:\Users\Nazario\Desktop\Uma24x4\WpfApplication4\obj\x86\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\Nazario\Desktop\Uma24x4\WpfApplication4\obj\x86\Release\UMA24PR_MarkupCompile.cache
+C:\Users\Nazario\Desktop\Uma24x4\WpfApplication4\obj\x86\Release\UMA24PR_MarkupCompile.lref
+C:\Users\Nazario\Desktop\Uma24x4\WpfApplication4\obj\x86\Release\Screen\AttactStcokwithProduct.baml
+C:\Users\Nazario\Desktop\Uma24x4\WpfApplication4\obj\x86\Release\Screen\CalculateScreen.baml
+C:\Users\Nazario\Desktop\Uma24x4\WpfApplication4\obj\x86\Release\Screen\OrderDetailScreen.baml
+C:\Users\Nazario\Desktop\Uma24x4\WpfApplication4\obj\x86\Release\Screen\OrderScreen.baml
+C:\Users\Nazario\Desktop\Uma24x4\WpfApplication4\obj\x86\Release\Screen\StockScreen.baml
+C:\Users\Nazario\Desktop\Uma24x4\WpfApplication4\obj\x86\Release\UMA24PR.g.resources
+C:\Users\Nazario\Desktop\Uma24x4\WpfApplication4\obj\x86\Release\UMA24.Properties.Resources.resources
+C:\Users\Nazario\Desktop\Uma24x4\WpfApplication4\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Nazario\Desktop\Uma24x4\WpfApplication4\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Nazario\Desktop\Uma24x4\WpfApplication4\obj\x86\Release\UMA24PR.TrustInfo.xml
+C:\Users\Nazario\Desktop\Uma24x4\WpfApplication4\obj\x86\Release\UMA24PR.exe.manifest
+C:\Users\Nazario\Desktop\Uma24x4\WpfApplication4\obj\x86\Release\UMA24PR.application
+C:\Users\Public\Downloads\Uma24x4_1\WpfApplication4\bin\Release\UMA24PR.exe.config
+C:\Users\Public\Downloads\Uma24x4_1\WpfApplication4\obj\x86\Release\Interop.iCaller.dll
+C:\Users\Public\Downloads\Uma24x4_1\WpfApplication4\obj\x86\Release\UMA24x.csproj.ResolveComReference.cache
+C:\Users\Public\Downloads\Uma24x4_1\WpfApplication4\obj\x86\Release\UMA24PR.exe
+C:\Users\Public\Downloads\Uma24x4_1\WpfApplication4\obj\x86\Release\UMA24PR.pdb
+C:\Users\Public\Downloads\Uma24x4_1\WpfApplication4\bin\Release\NLog.config
+C:\Users\Public\Downloads\Uma24x4_1\WpfApplication4\bin\Release\UMA24PR.exe.manifest
+C:\Users\Public\Downloads\Uma24x4_1\WpfApplication4\bin\Release\UMA24PR.application
+C:\Users\Public\Downloads\Uma24x4_1\WpfApplication4\bin\Release\UMA24PR.exe
+C:\Users\Public\Downloads\Uma24x4_1\WpfApplication4\bin\Release\UMA24PR.pdb
+C:\Users\Public\Downloads\Uma24x4_1\WpfApplication4\bin\Release\Microsoft.Expression.Drawing.xml
+C:\Users\Public\Downloads\Uma24x4_1\WpfApplication4\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Public\Downloads\Uma24x4_1\WpfApplication4\obj\x86\Release\Screen\AddOnScr.baml
+C:\Users\Public\Downloads\Uma24x4_1\WpfApplication4\obj\x86\Release\Screen\CallerInformation.baml
+C:\Users\Public\Downloads\Uma24x4_1\WpfApplication4\obj\x86\Release\Screen\MainWindow.baml
+C:\Users\Public\Downloads\Uma24x4_1\WpfApplication4\obj\x86\Release\Screen\ButtonSelectScreen.baml
+C:\Users\Public\Downloads\Uma24x4_1\WpfApplication4\obj\x86\Release\Screen\MapScreen.baml
+C:\Users\Public\Downloads\Uma24x4_1\WpfApplication4\obj\x86\Release\Screen\priceScreen.baml
+C:\Users\Public\Downloads\Uma24x4_1\WpfApplication4\obj\x86\Release\Screen\ProductScreen.baml
+C:\Users\Public\Downloads\Uma24x4_1\WpfApplication4\obj\x86\Release\Screen\AddOnScr.g.cs
+C:\Users\Public\Downloads\Uma24x4_1\WpfApplication4\obj\x86\Release\Screen\AttactStcokwithProduct.g.cs
+C:\Users\Public\Downloads\Uma24x4_1\WpfApplication4\obj\x86\Release\Screen\CalculateScreen.g.cs
+C:\Users\Public\Downloads\Uma24x4_1\WpfApplication4\obj\x86\Release\Screen\CallerInformation.g.cs
+C:\Users\Public\Downloads\Uma24x4_1\WpfApplication4\obj\x86\Release\Screen\MainWindow.g.cs
+C:\Users\Public\Downloads\Uma24x4_1\WpfApplication4\obj\x86\Release\Screen\ButtonSelectScreen.g.cs
+C:\Users\Public\Downloads\Uma24x4_1\WpfApplication4\obj\x86\Release\Screen\MapScreen.g.cs
+C:\Users\Public\Downloads\Uma24x4_1\WpfApplication4\obj\x86\Release\Screen\OrderDetailScreen.g.cs
+C:\Users\Public\Downloads\Uma24x4_1\WpfApplication4\obj\x86\Release\Screen\OrderScreen.g.cs
+C:\Users\Public\Downloads\Uma24x4_1\WpfApplication4\obj\x86\Release\Screen\priceScreen.g.cs
+C:\Users\Public\Downloads\Uma24x4_1\WpfApplication4\obj\x86\Release\Screen\ProductScreen.g.cs
+C:\Users\Public\Downloads\Uma24x4_1\WpfApplication4\obj\x86\Release\Screen\StockScreen.g.cs
+C:\Users\Public\Downloads\Uma24x4_1\WpfApplication4\obj\x86\Release\App.g.cs
+C:\Users\Public\Downloads\Uma24x4_1\WpfApplication4\obj\x86\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\Public\Downloads\Uma24x4_1\WpfApplication4\obj\x86\Release\UMA24PR_MarkupCompile.cache
+C:\Users\Public\Downloads\Uma24x4_1\WpfApplication4\obj\x86\Release\UMA24PR_MarkupCompile.lref
+C:\Users\Public\Downloads\Uma24x4_1\WpfApplication4\obj\x86\Release\Screen\AttactStcokwithProduct.baml
+C:\Users\Public\Downloads\Uma24x4_1\WpfApplication4\obj\x86\Release\Screen\CalculateScreen.baml
+C:\Users\Public\Downloads\Uma24x4_1\WpfApplication4\obj\x86\Release\Screen\OrderDetailScreen.baml
+C:\Users\Public\Downloads\Uma24x4_1\WpfApplication4\obj\x86\Release\Screen\OrderScreen.baml
+C:\Users\Public\Downloads\Uma24x4_1\WpfApplication4\obj\x86\Release\Screen\StockScreen.baml
+C:\Users\Public\Downloads\Uma24x4_1\WpfApplication4\obj\x86\Release\UMA24PR.g.resources
+C:\Users\Public\Downloads\Uma24x4_1\WpfApplication4\obj\x86\Release\UMA24.Properties.Resources.resources
+C:\Users\Public\Downloads\Uma24x4_1\WpfApplication4\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Public\Downloads\Uma24x4_1\WpfApplication4\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Public\Downloads\Uma24x4_1\WpfApplication4\obj\x86\Release\UMA24PR.TrustInfo.xml
+C:\Users\Public\Downloads\Uma24x4_1\WpfApplication4\obj\x86\Release\UMA24PR.exe.manifest
+C:\Users\Public\Downloads\Uma24x4_1\WpfApplication4\obj\x86\Release\UMA24PR.application
+D:\김영칠\uma24app\Uma24x4_1\WpfApplication4\bin\Release\UMA24PR.exe.config
+D:\김영칠\uma24app\Uma24x4_1\WpfApplication4\obj\x86\Release\Interop.iCaller.dll
+D:\김영칠\uma24app\Uma24x4_1\WpfApplication4\obj\x86\Release\UMA24x.csproj.ResolveComReference.cache
+D:\김영칠\uma24app\Uma24x4_1\WpfApplication4\obj\x86\Release\UMA24PR.exe
+D:\김영칠\uma24app\Uma24x4_1\WpfApplication4\obj\x86\Release\UMA24PR.pdb
+D:\김영칠\uma24app\Uma24x4_1\WpfApplication4\bin\Release\NLog.config
+D:\김영칠\uma24app\Uma24x4_1\WpfApplication4\bin\Release\UMA24PR.exe.manifest
+D:\김영칠\uma24app\Uma24x4_1\WpfApplication4\bin\Release\UMA24PR.application
+D:\김영칠\uma24app\Uma24x4_1\WpfApplication4\bin\Release\UMA24PR.exe
+D:\김영칠\uma24app\Uma24x4_1\WpfApplication4\bin\Release\UMA24PR.pdb
+D:\김영칠\uma24app\Uma24x4_1\WpfApplication4\bin\Release\Microsoft.Expression.Drawing.xml
+D:\김영칠\uma24app\Uma24x4_1\WpfApplication4\obj\x86\Release\ResolveAssemblyReference.cache
+D:\김영칠\uma24app\Uma24x4_1\WpfApplication4\obj\x86\Release\Screen\AddOnScr.baml
+D:\김영칠\uma24app\Uma24x4_1\WpfApplication4\obj\x86\Release\Screen\CallerInformation.baml
+D:\김영칠\uma24app\Uma24x4_1\WpfApplication4\obj\x86\Release\Screen\MainWindow.baml
+D:\김영칠\uma24app\Uma24x4_1\WpfApplication4\obj\x86\Release\Screen\ButtonSelectScreen.baml
+D:\김영칠\uma24app\Uma24x4_1\WpfApplication4\obj\x86\Release\Screen\MapScreen.baml
+D:\김영칠\uma24app\Uma24x4_1\WpfApplication4\obj\x86\Release\Screen\priceScreen.baml
+D:\김영칠\uma24app\Uma24x4_1\WpfApplication4\obj\x86\Release\Screen\ProductScreen.baml
+D:\김영칠\uma24app\Uma24x4_1\WpfApplication4\obj\x86\Release\Screen\AddOnScr.g.cs
+D:\김영칠\uma24app\Uma24x4_1\WpfApplication4\obj\x86\Release\Screen\AttactStcokwithProduct.g.cs
+D:\김영칠\uma24app\Uma24x4_1\WpfApplication4\obj\x86\Release\Screen\CalculateScreen.g.cs
+D:\김영칠\uma24app\Uma24x4_1\WpfApplication4\obj\x86\Release\Screen\CallerInformation.g.cs
+D:\김영칠\uma24app\Uma24x4_1\WpfApplication4\obj\x86\Release\Screen\MainWindow.g.cs
+D:\김영칠\uma24app\Uma24x4_1\WpfApplication4\obj\x86\Release\Screen\ButtonSelectScreen.g.cs
+D:\김영칠\uma24app\Uma24x4_1\WpfApplication4\obj\x86\Release\Screen\MapScreen.g.cs
+D:\김영칠\uma24app\Uma24x4_1\WpfApplication4\obj\x86\Release\Screen\OrderDetailScreen.g.cs
+D:\김영칠\uma24app\Uma24x4_1\WpfApplication4\obj\x86\Release\Screen\OrderScreen.g.cs
+D:\김영칠\uma24app\Uma24x4_1\WpfApplication4\obj\x86\Release\Screen\priceScreen.g.cs
+D:\김영칠\uma24app\Uma24x4_1\WpfApplication4\obj\x86\Release\Screen\ProductScreen.g.cs
+D:\김영칠\uma24app\Uma24x4_1\WpfApplication4\obj\x86\Release\Screen\StockScreen.g.cs
+D:\김영칠\uma24app\Uma24x4_1\WpfApplication4\obj\x86\Release\App.g.cs
+D:\김영칠\uma24app\Uma24x4_1\WpfApplication4\obj\x86\Release\GeneratedInternalTypeHelper.g.cs
+D:\김영칠\uma24app\Uma24x4_1\WpfApplication4\obj\x86\Release\UMA24PR_MarkupCompile.cache
+D:\김영칠\uma24app\Uma24x4_1\WpfApplication4\obj\x86\Release\UMA24PR_MarkupCompile.lref
+D:\김영칠\uma24app\Uma24x4_1\WpfApplication4\obj\x86\Release\Screen\AttactStcokwithProduct.baml
+D:\김영칠\uma24app\Uma24x4_1\WpfApplication4\obj\x86\Release\Screen\CalculateScreen.baml
+D:\김영칠\uma24app\Uma24x4_1\WpfApplication4\obj\x86\Release\Screen\OrderDetailScreen.baml
+D:\김영칠\uma24app\Uma24x4_1\WpfApplication4\obj\x86\Release\Screen\OrderScreen.baml
+D:\김영칠\uma24app\Uma24x4_1\WpfApplication4\obj\x86\Release\Screen\StockScreen.baml
+D:\김영칠\uma24app\Uma24x4_1\WpfApplication4\obj\x86\Release\UMA24PR.g.resources
+D:\김영칠\uma24app\Uma24x4_1\WpfApplication4\obj\x86\Release\UMA24.Properties.Resources.resources
+D:\김영칠\uma24app\Uma24x4_1\WpfApplication4\obj\x86\Release\GenerateResource.read.1.tlog
+D:\김영칠\uma24app\Uma24x4_1\WpfApplication4\obj\x86\Release\GenerateResource.write.1.tlog
+D:\김영칠\uma24app\Uma24x4_1\WpfApplication4\obj\x86\Release\UMA24PR.TrustInfo.xml
+D:\김영칠\uma24app\Uma24x4_1\WpfApplication4\obj\x86\Release\UMA24PR.exe.manifest
+D:\김영칠\uma24app\Uma24x4_1\WpfApplication4\obj\x86\Release\UMA24PR.application
+D:\uma24app\Uma24x4_1\WpfApplication4\bin\Release\UMA24PR.exe.config
+D:\uma24app\Uma24x4_1\WpfApplication4\obj\x86\Release\Interop.iCaller.dll
+D:\uma24app\Uma24x4_1\WpfApplication4\obj\x86\Release\UMA24x.csproj.ResolveComReference.cache
+D:\uma24app\Uma24x4_1\WpfApplication4\obj\x86\Release\UMA24PR.exe
+D:\uma24app\Uma24x4_1\WpfApplication4\obj\x86\Release\UMA24PR.pdb
+D:\uma24app\Uma24x4_1\WpfApplication4\bin\Release\NLog.config
+D:\uma24app\Uma24x4_1\WpfApplication4\bin\Release\UMA24PR.exe.manifest
+D:\uma24app\Uma24x4_1\WpfApplication4\bin\Release\UMA24PR.application
+D:\uma24app\Uma24x4_1\WpfApplication4\bin\Release\UMA24PR.exe
+D:\uma24app\Uma24x4_1\WpfApplication4\bin\Release\UMA24PR.pdb
+D:\uma24app\Uma24x4_1\WpfApplication4\bin\Release\Microsoft.Expression.Drawing.xml
+D:\uma24app\Uma24x4_1\WpfApplication4\obj\x86\Release\Screen\AddOnScr.baml
+D:\uma24app\Uma24x4_1\WpfApplication4\obj\x86\Release\Screen\CallerInformation.baml
+D:\uma24app\Uma24x4_1\WpfApplication4\obj\x86\Release\Screen\MainWindow.baml
+D:\uma24app\Uma24x4_1\WpfApplication4\obj\x86\Release\Screen\ButtonSelectScreen.baml
+D:\uma24app\Uma24x4_1\WpfApplication4\obj\x86\Release\Screen\MapScreen.baml
+D:\uma24app\Uma24x4_1\WpfApplication4\obj\x86\Release\Screen\priceScreen.baml
+D:\uma24app\Uma24x4_1\WpfApplication4\obj\x86\Release\Screen\ProductScreen.baml
+D:\uma24app\Uma24x4_1\WpfApplication4\obj\x86\Release\Screen\AddOnScr.g.cs
+D:\uma24app\Uma24x4_1\WpfApplication4\obj\x86\Release\Screen\AttactStcokwithProduct.g.cs
+D:\uma24app\Uma24x4_1\WpfApplication4\obj\x86\Release\Screen\CalculateScreen.g.cs
+D:\uma24app\Uma24x4_1\WpfApplication4\obj\x86\Release\Screen\CallerInformation.g.cs
+D:\uma24app\Uma24x4_1\WpfApplication4\obj\x86\Release\Screen\MainWindow.g.cs
+D:\uma24app\Uma24x4_1\WpfApplication4\obj\x86\Release\Screen\ButtonSelectScreen.g.cs
+D:\uma24app\Uma24x4_1\WpfApplication4\obj\x86\Release\Screen\MapScreen.g.cs
+D:\uma24app\Uma24x4_1\WpfApplication4\obj\x86\Release\Screen\OrderDetailScreen.g.cs
+D:\uma24app\Uma24x4_1\WpfApplication4\obj\x86\Release\Screen\OrderScreen.g.cs
+D:\uma24app\Uma24x4_1\WpfApplication4\obj\x86\Release\Screen\priceScreen.g.cs
+D:\uma24app\Uma24x4_1\WpfApplication4\obj\x86\Release\Screen\ProductScreen.g.cs
+D:\uma24app\Uma24x4_1\WpfApplication4\obj\x86\Release\Screen\StockScreen.g.cs
+D:\uma24app\Uma24x4_1\WpfApplication4\obj\x86\Release\App.g.cs
+D:\uma24app\Uma24x4_1\WpfApplication4\obj\x86\Release\GeneratedInternalTypeHelper.g.cs
+D:\uma24app\Uma24x4_1\WpfApplication4\obj\x86\Release\UMA24PR_MarkupCompile.cache
+D:\uma24app\Uma24x4_1\WpfApplication4\obj\x86\Release\UMA24PR_MarkupCompile.lref
+D:\uma24app\Uma24x4_1\WpfApplication4\obj\x86\Release\Screen\AttactStcokwithProduct.baml
+D:\uma24app\Uma24x4_1\WpfApplication4\obj\x86\Release\Screen\CalculateScreen.baml
+D:\uma24app\Uma24x4_1\WpfApplication4\obj\x86\Release\Screen\OrderDetailScreen.baml
+D:\uma24app\Uma24x4_1\WpfApplication4\obj\x86\Release\Screen\OrderScreen.baml
+D:\uma24app\Uma24x4_1\WpfApplication4\obj\x86\Release\Screen\StockScreen.baml
+D:\uma24app\Uma24x4_1\WpfApplication4\obj\x86\Release\UMA24PR.g.resources
+D:\uma24app\Uma24x4_1\WpfApplication4\obj\x86\Release\UMA24.Properties.Resources.resources
+D:\uma24app\Uma24x4_1\WpfApplication4\obj\x86\Release\UMA24x.csproj.GenerateResource.Cache
+D:\uma24app\Uma24x4_1\WpfApplication4\obj\x86\Release\UMA24PR.TrustInfo.xml
+D:\uma24app\Uma24x4_1\WpfApplication4\obj\x86\Release\UMA24PR.exe.manifest
+D:\uma24app\Uma24x4_1\WpfApplication4\obj\x86\Release\UMA24PR.application

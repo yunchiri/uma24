@@ -1,0 +1,106 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly manifestVersion="1.0" xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1">
+  <asmv1:assemblyIdentity version="1.1.1.0" name="UMA24PR.exe" publicKeyToken="f11ee26f5c9255aa" language="neutral" processorArchitecture="x86" type="win32" />
+  <description asmv2:iconFile="Resources\uma24Icon.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="UMA24PR" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+    <commandLine file="UMA24PR.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet version="1" class="System.Security.NamedPermissionSet" Name="LocalIntranet" Description="Default rights given to applications on the local intranet" Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!-- UAC Manifest Options
+            If you want to change the Windows User Account Control level replace the 
+            requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+            Specifying requestedExecutionLevel node will disable file and registry virtualization.
+            If you want to utilize File and Registry Virtualization for backward 
+            compatibility then delete the requestedExecutionLevel node.
+        -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Microsoft.Expression.Drawing.dll" size="122880">
+      <assemblyIdentity name="Microsoft.Expression.Drawing" version="4.0.0.0" publicKeyToken="31BF3856AD364E35" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>rUxD+M8zP3GKvtY6FZyDcUiy/Ng=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Stars.dll" size="8704">
+      <assemblyIdentity name="Stars" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>MJX0uaDC6U84G1r3zYej031VBYA=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="UMA24PR.exe" size="130560">
+      <assemblyIdentity name="UMA24PR" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>dKEIYp9L/IFn2V2VsxOFiZTHLcM=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="Resources\uma24Icon.ico" size="1078">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>b1AMnxzH2gu7iRi9DuNm7DUQVmw=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="UMA24PR.exe.config" size="750">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>ZQYMqJ+8Hx9f0p7WcFLkITt4dEo=</dsig:DigestValue>
+    </hash>
+  </file>
+  <compatibility xmlns="urn:schemas-microsoft-com:compatibility.v1">
+    <application>
+      <!-- A list of all Windows versions that this application is designed to work with. Windows will automatically select the most compatible environment.-->
+      <!-- If your application is designed to work with Windows 7, uncomment the following supportedOS node-->
+      <!--<supportedOS Id="{35138b9a-5d96-4fbd-8e2d-a2440225f93a}"/>-->
+    </application>
+  </compatibility>
+<publisherIdentity name="CN=Nazario-PC\Nazario" issuerKeyHash="444ffab0a21e710ca826d7fca4facdac2b43edf5" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>5CRKsMgUDbAf2j6ESR7UXxneXhQ=</DigestValue></Reference></SignedInfo><SignatureValue>PkBI2cGAkboXfmGZg9vOL9yq15odEeREsh371rF0/x/DgApJclANtEn4vHhnycvbr5cnkTd6N41Lg9EqcZHG6PuTGYLu3wyzGVW0xWqerkhNQa2BAXl7d8nJ3xv20R/mLd1JXDVJ+nlHeBk4ZFTpbBc0Ic0ZJJSgHyU/HjeQhPA=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>uSX0wDomUBawWRsVtuec0LYOFnRcwuRkI5N8frPAKe7vEzKk3uQ/tt5eeBSMurAnzu5eVEHKtir0pCv2OfZ4JDVgqNim8+mNrjzbX7lrg5QaM3GsO8EbYZa4AbzTiLhPd5gowKfQr06LzhJQ8M5yKJnV36aZBiLnGYX/syFGiX8=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="145ede195fd41e49843eda1fb00d14c8b04a24e4" Description="" Url=""><as:assemblyIdentity version="1.1.1.0" name="UMA24PR.exe" publicKeyToken="f11ee26f5c9255aa" language="neutral" processorArchitecture="x86" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=Nazario-PC\Nazario</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>y5F5O+GNua1C98LgycuXM8OmHig=</DigestValue></Reference></SignedInfo><SignatureValue>ST3gbSfmOEyjAA8P6UZaga6X0Gc3dh81VJKYwPhKOnYyAGS4kQGsALA5vfbhubyT43hpB2HEUYjdEr81cofndOGStN/Hxg89mdQCipoG2ojUj0PMscSAkCkWhOtKEoF8P0l0E9toriaMqw9IiNy70rMbbaswHXIiE9leOZ2idLs=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>uSX0wDomUBawWRsVtuec0LYOFnRcwuRkI5N8frPAKe7vEzKk3uQ/tt5eeBSMurAnzu5eVEHKtir0pCv2OfZ4JDVgqNim8+mNrjzbX7lrg5QaM3GsO8EbYZa4AbzTiLhPd5gowKfQr06LzhJQ8M5yKJnV36aZBiLnGYX/syFGiX8=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB4TCCAUqgAwIBAgIQGjBMcOqMKr5FCvYJaOvMNDANBgkqhkiG9w0BAQUFADAvMS0wKwYDVQQDHiQATgBhAHoAYQByAGkAbwAtAFAAQwBcAE4AYQB6AGEAcgBpAG8wHhcNMTAxMTE4MDkwMDE5WhcNMTExMTE4MTUwMDE5WjAvMS0wKwYDVQQDHiQATgBhAHoAYQByAGkAbwAtAFAAQwBcAE4AYQB6AGEAcgBpAG8wgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBALkl9MA6JlAWsFkbFbbnnNC2DhZ0XMLkZCOTfH6zwCnu7xMypN7kP7beXngUjLqwJ87uXlRByrYq9KQr9jn2eCQ1YKjYpvPpja4821+5a4OUGjNxrDvBG2GWuAG804i4T3eYKMCn0K9Oi84SUPDOciiZ1d+mmQYi5xmF/7MhRol/AgMBAAEwDQYJKoZIhvcNAQEFBQADgYEAiwW6DhKvBebJ8zxnS0iG0edSGKDM3f6EuOFK+OM6uF+bQqILiDB/b9g2RGlpmJNYePb/J/myg2pxYOfSV+GUhEheFyLvVZefdgVSAKkjPd94YRQ/iIJM0YG3ItNeR6cMuS5Xp9n8yDTDvLXCAIlDC+Gh3QlnBzJNejm5YKtG0y0=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

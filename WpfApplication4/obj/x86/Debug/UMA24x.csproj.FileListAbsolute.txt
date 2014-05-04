@@ -1,0 +1,16 @@
+C:\Users\Nazario\Desktop\Uma24x\WpfApplication4\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Nazario\Desktop\Uma24x\WpfApplication4\obj\x86\Debug\Interop.iCaller.dll
+C:\Users\Nazario\Desktop\Uma24x\WpfApplication4\obj\x86\Debug\UMA24x.csproj.ResolveComReference.cache
+C:\Users\Nazario\Desktop\Uma24x\WpfApplication4\obj\x86\Debug\Screen\MainWindow.baml
+C:\Users\Nazario\Desktop\Uma24x\WpfApplication4\obj\x86\Debug\Screen\ButtonSelectScreen.baml
+C:\Users\Nazario\Desktop\Uma24x\WpfApplication4\obj\x86\Debug\Screen\ProductScreen.baml
+C:\Users\Nazario\Desktop\Uma24x\WpfApplication4\obj\x86\Debug\Screen\AttactStcokwithProduct.g.cs
+C:\Users\Nazario\Desktop\Uma24x\WpfApplication4\obj\x86\Debug\Screen\CalculateScreen.g.cs
+C:\Users\Nazario\Desktop\Uma24x\WpfApplication4\obj\x86\Debug\Screen\MainWindow.g.cs
+C:\Users\Nazario\Desktop\Uma24x\WpfApplication4\obj\x86\Debug\Screen\ButtonSelectScreen.g.cs
+C:\Users\Nazario\Desktop\Uma24x\WpfApplication4\obj\x86\Debug\Screen\ProductScreen.g.cs
+C:\Users\Nazario\Desktop\Uma24x\WpfApplication4\obj\x86\Debug\Screen\StockScreen.g.cs
+C:\Users\Nazario\Desktop\Uma24x\WpfApplication4\obj\x86\Debug\App.g.cs
+C:\Users\Nazario\Desktop\Uma24x\WpfApplication4\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Nazario\Desktop\Uma24x\WpfApplication4\obj\x86\Debug\UMA24PR_MarkupCompile.cache
+C:\Users\Nazario\Desktop\Uma24x\WpfApplication4\obj\x86\Debug\UMA24PR_MarkupCompile.lref
